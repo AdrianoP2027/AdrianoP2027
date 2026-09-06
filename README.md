@@ -1,57 +1,26 @@
-# 👋 Hey, I'm a Computer Engineering Enthusiast
+# About Me
 
-```python
-class Engineer:
-    def __init__(self):
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Robotics",
-            "Autonomous Systems"
-        ]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
+</p>
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C#"
-        ]
+I'm an aspiring **Computer Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems. I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions.
 
-        self.current_focus = "Building projects that solve real-world problems"
+I'm particularly interested in **software development, object-oriented programming, algorithms, computer vision, and autonomous robotics**. I like learning by building projects, experimenting with different approaches, and improving my understanding through hands-on work.
 
-    def introduce(self):
-        return "Learn → Build → Experiment → Improve"
+I'm also continuing to expand my programming experience with **Python, Java, and C#**, while developing my understanding of software design and problem-solving.
 
+My goal is to continue building challenging projects, strengthen my engineering skills, and eventually pursue **Computer Engineering** with a focus on creating technology that solves meaningful real-world problems.
 
-me = Engineer()
-print(me.introduce())
-```
+### Interests
 
-### 🧠 About Me
+* Software Development
+* Artificial Intelligence
+* Computer Vision
+* Robotics
+* Autonomous Systems
+* Algorithms & Problem Solving
 
-I'm an aspiring **Computer Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems.
+### Languages
 
-I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions. I learn best by **building, experimenting, breaking things, and figuring out how to make them better**.
-
-My main areas of interest include:
-
-* 💻 Software Development
-* 🧩 Object-Oriented Programming
-* 🧠 Algorithms & Problem Solving
-* 👁️ Computer Vision & AI
-* 🤖 Robotics & Autonomous Systems
-* 🗺️ Mapping & Path Planning
-
-### 🛠️ Technologies
-
-```text
-Languages       → Python • Java • C#
-Interests       → AI • Robotics • Computer Vision
-Concepts        → OOP • Algorithms • Path Planning
-Currently       → Expanding my software & engineering skills
-```
-
-### 🎯 What I'm Working Toward
-
-My goal is to continue building challenging projects, strengthen my engineering skills, and pursue **Computer Engineering** with a focus on creating technology that solves meaningful real-world problems.
-
-> **Build things. Solve problems. Keep learning.**
+`Python` · `C#` · `Java`
