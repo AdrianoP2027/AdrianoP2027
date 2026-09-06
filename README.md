@@ -10,7 +10,7 @@ I'm an aspiring **Computer Engineer** interested in the intersection of software
 
 I'm particularly interested in **software development, object-oriented programming, algorithms, computer vision, and autonomous robotics**. I like learning by building projects, experimenting with different approaches, and improving my understanding through hands-on work.
 
-I'm also continuing to expand my programming experience with **Python, Java, and C#**, while developing my understanding of software design and problem-solving.
+I'm also continuing to expand my programming experience with **Python, C#**, and Java, while developing my understanding of software design and problem-solving.
 
 My goal is to continue building challenging projects, strengthen my engineering skills, and eventually pursue **Computer Engineering** with a focus on creating technology that solves meaningful real-world problems.
 
@@ -18,12 +18,10 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ### Interests
 
-Software Development
-Artificial Intelligence
-Computer Vision
-Robotics
-Autonomous Systems
-Algorithms & Problem Solving
+Robotics & Engineering Design
+Programming & Software Development
+Artificial Intelligence & Computer Vision
+Electronics & Embedded Systems
 
 ### Languages
 
