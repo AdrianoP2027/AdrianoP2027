@@ -18,10 +18,10 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ### Interests
 
-Robotics & Engineering Design
-Programming & Software Development
-Artificial Intelligence & Computer Vision
-Electronics & Embedded Systems
+- Robotics & Engineering Design
+- Programming & Software Development
+- Artificial Intelligence & Computer Vision
+- Electronics & Embedded Systems
 
 ### Languages
 
