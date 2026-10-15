@@ -30,44 +30,5 @@ My goal is to continue building challenging projects, strengthen my engineering 
 ---
 
 <p align="center">
-  <svg width="500" height="50" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&amp;display=swap');
-      
-      .fly-text {
-        font-family: 'Dancing Script', 'Caveat', cursive, sans-serif;
-        font-size: 26px;
-        fill: url(#purple-gradient);
-        text-anchor: middle;
-        dominant-baseline: middle;
-        animation: flyInOut 5s ease-in-out infinite;
-      }
-
-      @keyframes flyInOut {
-        0% {
-          transform: translateX(-150px);
-          opacity: 0;
-        }
-        20% {
-          transform: translateX(0px);
-          opacity: 1;
-        }
-        80% {
-          transform: translateX(0px);
-          opacity: 1;
-        }
-        100% {
-          transform: translateX(150px);
-          opacity: 0;
-        }
-      }
-    </style>
-    <defs>
-      <linearGradient id="purple-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#C084FC" />
-        <stop offset="100%" stop-color="#9333EA" />
-      </linearGradient>
-    </defs>
-    <text x="250" y="25" class="fly-text">Always learning. Always building.</text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building." alt="Always learning. Always building." />
 </p>
