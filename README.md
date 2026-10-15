@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-deployed-website-url.com">
-    <img src="https://img.shields.io/badge/🌐_Explore_Interactive_Portfolio-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Interactive Portfolio" />
+  <a href="./index.html">
+    <img src="https://img.shields.io/badge/🌐_Launch_Interactive_Website-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Interactive Website" />
   </a>
 </p>
 
