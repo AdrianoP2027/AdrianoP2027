@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="./index.html">
-    <img src="https://img.shields.io/badge/🌐_Launch_Interactive_Website-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Interactive Website" />
+  <a href="https://adrianop2027.github.io/AdrianoP2027/">
+    <img src="https://img.shields.io/badge/🌐_Launch_Interactive_Website-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Launch Interactive Website" />
   </a>
 </p>
 
