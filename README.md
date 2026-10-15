@@ -1,88 +1,52 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123C69,100:00E5FF&height=220&section=header&text=ROBOTICS%20%7C%20AI%20%7C%20SOFTWARE&fontSize=30&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20systems%20for%20real-world%20problems&descAlignY=58&descSize=13&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:101B3D,100:00E5FF&height=200&section=header&text=ABOUT%20ME&fontSize=48&fontColor=00E5FF&fontAlignY=42&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Robotics+Engineer;Exploring+Autonomous+Systems;Software+%7C+AI+%7C+Computer+Vision;Turning+Ideas+Into+Engineering+Projects" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Aspiring+Robotics+%26+Autonomous+Systems+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Autonomous%20Robotics-00E5FF?style=for-the-badge&labelColor=050816" />
-  <img src="https://img.shields.io/badge/INTERESTS-AI%20%26%20Engineering-8B5CF6?style=for-the-badge&labelColor=050816" />
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Building-22C55E?style=for-the-badge&labelColor=050816" />
+  <i><font color="#A78BFA">Engineering ideas into practical solutions.</font></i>
 </p>
 
 ---
 
-## `> WHO_AM_I`
+### <span style="color:#00E5FF">01 / INTRODUCTION</span>
 
-I'm an aspiring **Robotics & Autonomous Systems Engineer** fascinated by the intersection of software, artificial intelligence, and physical machines.
+I'm an aspiring **Robotics & Autonomous Systems Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems.
 
-I enjoy exploring how technology can solve real-world problems, from intelligent software to autonomous robots that perceive and navigate their environments.
+I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions.
 
-My approach is simple: **learn by building, experiment relentlessly, and keep improving.**
+I'm particularly interested in **software development, object-oriented programming, algorithms, computer vision, and autonomous robotics**.
 
-- 🤖 **Robotics:** Autonomous systems, navigation, and engineering design
-- 🧠 **AI & Vision:** Computer vision, intelligent detection, and perception
-- 💻 **Software:** Object-oriented programming, algorithms, and problem-solving
-- ⚡ **Engineering:** Electronics, embedded systems, and hardware integration
+I learn by building projects, experimenting with different approaches, and improving my understanding through hands-on work.
 
-## `> CURRENT_MISSION`
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:123C69&height=3&section=header" width="100%" alt="" />
+### <span style="color:#A78BFA">02 / TECHNICAL INTERESTS</span>
+
+- **Robotics & Engineering Design**
+- **Programming & Software Development**
+- **Artificial Intelligence & Computer Vision**
+- **Electronics & Embedded Systems**
+
+---
+
+### <span style="color:#00E5FF">03 / LANGUAGES</span>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-00E5FF?style=flat&logo=python&logoColor=050816&labelColor=050816" />
+  <img src="https://img.shields.io/badge/Java-A78BFA?style=flat&logo=openjdk&logoColor=FFFFFF&labelColor=050816" />
+  <img src="https://img.shields.io/badge/C%23-00E5FF?style=flat&logo=csharp&logoColor=050816&labelColor=050816" />
 </p>
 
-### 🤖 Project Ares
+---
 
-**Autonomous Search-and-Rescue Reconnaissance System**
+### <span style="color:#A78BFA">04 / OBJECTIVE</span>
 
-Developing a robotics project focused on helping emergency responders understand dangerous indoor environments.
-
-The goal is to combine autonomous exploration, environmental mapping, and heat-source detection into a system that can help firefighters identify hazards and make better-informed decisions.
-
-`AUTONOMY` · `MAPPING` · `COMPUTER VISION` · `ROBOTICS`
+My goal is to pursue **Robotics Engineering**, strengthen my engineering skills, and create technology that solves meaningful real-world problems.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-In%20Development-00E5FF?style=flat-square&labelColor=050816" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=Always+learning.;Always+building.;Always+improving." alt="Always learning, building, and improving" />
 </p>
 
-## `> TECH_STACK`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,git,github,linux&theme=dark" alt="Python, Java, C Sharp, Git, GitHub, and Linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Computer%20Vision-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Engineering-Embedded%20Systems-00E5FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Autonomous%20Navigation-22C55E?style=flat-square" />
-</p>
-
-## `> ENGINEERING_MINDSET`
-
-```python
-class Engineer:
-    def __init__(self):
-        self.mindset = "Continuous improvement"
-        self.method = "Learn → Build → Test → Refine"
-        self.goal = "Solve meaningful real-world problems"
-
-    def next_step(self):
-        return "Build something better than yesterday."
-
-me = Engineer()
-print(me.next_step())
-```
-
-## `> THE_MISSION`
-
-My long-term goal is to pursue **Robotics Engineering** and develop intelligent, autonomous systems that make a meaningful difference in the real world.
-
-I want to go beyond writing code and understand how complete systems work — from algorithms and perception to hardware and real-world deployment.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=Always+learning.;Always+building.;Always+engineering." alt="Always learning, building, and engineering" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:123C69,100:050816&height=120&section=footer" width="100%" alt="" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,60:101B3D,100:050816&height=100&section=footer)
