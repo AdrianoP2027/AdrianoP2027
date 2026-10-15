@@ -30,5 +30,5 @@ My goal is to continue building challenging projects, strengthen my engineering 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building." alt="Always learning. Always building." />
+  <img src="./quote.svg" alt="Always learning. Always building." />
 </p>
