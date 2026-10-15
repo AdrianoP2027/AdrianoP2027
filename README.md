@@ -1,7 +1,13 @@
 # About Me
 
+<!-- Animated Purple Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header&text=Robotics%20%26%20Autonomous%20Systems&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+</p>
+
+<!-- Header Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
 </p>
 
 ---
@@ -16,19 +22,24 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ---
 
-### Interests
+### ⚙️ Interests
 
-- Robotics & Engineering Design
-- Programming & Software Development
-- Artificial Intelligence & Computer Vision
-- Electronics & Embedded Systems
+- 🤖 **Robotics & Engineering Design**
+- 💻 **Programming & Software Development**
+- 👁️ **Artificial Intelligence & Computer Vision**
+- ⚡ **Electronics & Embedded Systems**
 
-### Languages
+### 💻 Languages
 
-**Python** · **Java** · **C#**
+<p left>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 ---
 
+<!-- Animated Purple Background Footer Quote -->
 <p align="center">
-  <img src="./quote.svg" alt="Always learning. Always building." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=110&section=footer&text=Always%20learning.%20Always%20building.&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Banner" />
 </p>
