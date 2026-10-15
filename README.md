@@ -16,14 +16,14 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ---
 
-### ⚙️ Interests
+### <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=50&section=header&text=Interests&fontSize=20&fontColor=ffffff" width="100%" />
 
 - 🤖 **Robotics & Engineering Design**
 - 💻 **Programming & Software Development**
 - 👁️ **Artificial Intelligence & Computer Vision**
 - ⚡ **Electronics & Embedded Systems**
 
-### 💻 Languages
+### <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=50&section=header&text=Languages&fontSize=20&fontColor=ffffff" width="100%" />
 
 <p left>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,5 +34,5 @@ My goal is to continue building challenging projects, strengthen my engineering 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Always+learning.+Always+building." alt="Typing animation footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Always+learning.+Always+building." alt="Animated footer quote" />
 </p>
