@@ -1,125 +1,40 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:101B3D&height=180&section=header&text=ABOUT%20ME&fontSize=52&fontColor=00E5FF&fontAlignY=45&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20AUTONOMOUS%20SYSTEMS&descSize=12&descAlignY=72&descColor=94A3B8)
+# About Me
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+Robotics+%26+Autonomous+Systems+Engineer;Software+%7C+AI+%7C+Robotics;Engineering+ideas+into+practical+solutions" alt="Introduction" />
-
-<br/>
-
-<sub>ENGINEERING IDEAS INTO PRACTICAL SOLUTIONS</sub>
-
-<br/><br/>
-
-[PORTFOLIO](https://adrianop2027.vercel.app/) &nbsp; // &nbsp; SOFTWARE DEVELOPMENT &nbsp; // &nbsp; ROBOTICS
-
-</div>
+<p align="center">
+  <a href="https://your-deployed-website-url.com">
+    <img src="https://img.shields.io/badge/🌐_Explore_Interactive_Portfolio-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Interactive Portfolio" />
+  </a>
+</p>
 
 ---
 
-### <code>01 / PROFILE</code>
+I'm an aspiring **Robotics & Autonomous Systems Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems. I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions.
 
-Aspiring **Robotics & Autonomous Systems Engineer** with an interest in software, artificial intelligence, robotics, and autonomous systems.
+I'm particularly interested in **software development, object-oriented programming, algorithms, computer vision, and autonomous robotics**. I like learning by building projects, experimenting with different approaches, and improving my understanding through hands-on work.
 
-I enjoy solving real-world problems, exploring how technology works, and learning through building. My goal is to combine software and engineering to develop practical solutions.
+I'm also continuing to expand my programming experience with **C#** and **Python**, while utilizing Java strictly within HTML contexts.
 
----
-
-### <code>02 / TECHNICAL INTERESTS</code>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — ROBOTICS & ENGINEERING**
-
-Exploring robotics, autonomous systems, and engineering design.
-
-</td>
-<td width="50%" valign="top">
-
-**02 — SOFTWARE DEVELOPMENT**
-
-Programming, object-oriented design, and algorithms.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — ARTIFICIAL INTELLIGENCE**
-
-Interested in AI and computer vision.
-
-</td>
-<td width="50%" valign="top">
-
-**04 — ELECTRONICS & EMBEDDED SYSTEMS**
-
-Exploring the electronics and computing behind physical systems.
-
-</td>
-</tr>
-</table>
+My goal is to continue building challenging projects, strengthen my engineering skills, and eventually pursue **Robotics Engineering** with a focus on creating technology that solves meaningful real-world problems.
 
 ---
 
-### <code>03 / PROGRAMMING LANGUAGES</code>
+### Interests
 
-`PYTHON` &nbsp;&nbsp; `JAVA` &nbsp;&nbsp; `C#`
+- Robotics & Engineering Design
+- Programming & Software Development
+- Artificial Intelligence & Computer Vision
+- Electronics & Embedded Systems
 
----
+### Languages
 
-### <code>04 / OBJECTIVE</code>
-
-To pursue **Robotics Engineering**, strengthen my engineering skills, and create technology that solves real-world problems.
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**LEARN**
-
-<br/>
-
-<sub>Expand technical knowledge</sub>
-
-</td>
-<td align="center" width="33%">
-
-**BUILD**
-
-<br/>
-
-<sub>Turn ideas into projects</sub>
-
-</td>
-<td align="center" width="33%">
-
-**IMPROVE**
-
-<br/>
-
-<sub>Refine skills through practice</sub>
-
-</td>
-</tr>
-</table>
+**C#** · **Python** · **Java (HTML context only)**
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=ALWAYS+LEARNING.;ALWAYS+BUILDING.;ALWAYS+IMPROVING." alt="Always learning, building, improving" />
-
-<br/><br/>
-
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-<br/>
-
-<sub>ENGINEER IN PROGRESS &nbsp; // &nbsp; STATUS: LEARNING</sub>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:101B3D,100:050816&height=100&section=footer)
-
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
