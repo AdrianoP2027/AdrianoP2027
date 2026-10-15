@@ -1,17 +1,7 @@
 # About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Aspiring+Robotics+Engineer;🤖+Software+%7C+AI+%7C+Robotics;⚡+Always+learning%2C+building%2C+improving" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://adrianop2027.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-</p>
-
-<p center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,14,20&height=100&section=header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
 </p>
 
 ---
@@ -26,25 +16,23 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ---
 
-### 🎨 Interests
+### ⚙️ Interests
 
 - 🤖 **Robotics & Engineering Design**
 - 💻 **Programming & Software Development**
 - 👁️ **Artificial Intelligence & Computer Vision**
 - ⚡ **Electronics & Embedded Systems**
 
-### 🛠️ Languages & Toolkit
+### 💻 Languages
 
 <p left>
-  <img src="https://skillicons.dev/icons?i=python,cs,java,cpp,opencv,arduino,raspberrypi,git,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=//+Always+learning.+Always+building." alt="Animated footer" />
-</p>
-
-<p center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,14,20&height=100&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Always+learning.+Always+building." alt="Typing animation footer" />
 </p>
