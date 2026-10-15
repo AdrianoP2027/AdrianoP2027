@@ -37,4 +37,8 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 <p align="center">
   <i>Always learning. Always building.</i>
+
+  © 2026 Adriano P. All rights reserved.
+
+This project and its source code are my original work. Please do not copy, redistribute, or reuse the code without my permission.
 </p>
