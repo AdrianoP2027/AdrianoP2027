@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
 </p>
----
 
 I'm an aspiring **Robotics & Autonomous Systems Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems. I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions.
 
