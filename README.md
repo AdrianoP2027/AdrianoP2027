@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Robotics+Engineer;Software+%7C+AI+%7C+Robotics;Always+learning%2C+building%2C+improving" alt="Typing animation" />
 </p>
-
-<p align="center">
-  <a href="https://adrianop2027.github.io/AdrianoP2027/">
-    <img src="https://img.shields.io/badge/🌐_Launch_Interactive_Website-0B132B?style=for-the-badge&logo=rocket&logoColor=4CC9F0" alt="Launch Interactive Website" />
-  </a>
-</p>
-
 ---
 
 I'm an aspiring **Robotics & Autonomous Systems Engineer** interested in the intersection of software, artificial intelligence, robotics, and autonomous systems. I enjoy taking real-world problems and exploring how technology can be used to develop practical solutions.
