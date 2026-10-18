@@ -16,7 +16,7 @@ I'm an aspiring **Robotics & Autonomous Systems Engineer** interested in the int
 
 I'm particularly interested in **software development, object-oriented programming, algorithms, computer vision, and autonomous robotics**. I like learning by building projects, experimenting with different approaches, and improving my understanding through hands-on work.
 
-I'm also continuing to expand my programming experience with **C#** and **Python**, while utilizing Java strictly within HTML contexts.
+I'm also continuing to expand my programming experience with **C#** and **Python**, while utilizing CSS and HTML for basic website composition.
 
 My goal is to continue building challenging projects, strengthen my engineering skills, and eventually pursue **Robotics Engineering** with a focus on creating technology that solves meaningful real-world problems.
 
@@ -31,7 +31,7 @@ My goal is to continue building challenging projects, strengthen my engineering 
 
 ### Languages
 
-**C#** · **Python** · **Java (HTML context only)**
+**C#** · **Python**
 
 ---
 
